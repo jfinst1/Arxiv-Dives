@@ -17,7 +17,7 @@ A monolithic Python application for tracing language model outputs against a cor
 - Required packages:
 
 ```bash
-pip install flask transformers rank_bm25 suffix_trees nltk torch beautifulsoup4 bleach reportlab datasets
+flask transformers rank_bm25 suffix_trees nltk torch beautifulsoup4 bleach reportlab datasets
 ```
 
 ## Installation
