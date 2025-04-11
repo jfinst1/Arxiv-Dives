@@ -25,8 +25,8 @@ pip install flask transformers rank_bm25 suffix_trees nltk torch beautifulsoup4 
 Clone or download this repository:
 
 ```bash
-git clone https://github.com/yourusername/olmotrace-simulator.git
-cd olmotrace-simulator
+git clone https://github.com/yourusername/olmotrace.git
+cd olmotrace
 ```
 
 Install dependencies:
